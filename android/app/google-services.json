@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600502497263",
+    "project_id": "flutter-firebase-db46c",
+    "storage_bucket": "flutter-firebase-db46c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600502497263:android:30ac9e47d06680c479901a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9vA-TAu2Thqp5lL6f6XjHSVqyYxUai3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
